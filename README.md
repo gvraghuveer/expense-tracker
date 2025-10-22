@@ -76,6 +76,7 @@ Create a .env file inside backend/:
 ```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
+JWT_SECRET= *Use this command in your terminal, node -e "console.log(require('crypto').randomlyBytes(64).toString('hex))"*
 ```
 
 Start the backend:
