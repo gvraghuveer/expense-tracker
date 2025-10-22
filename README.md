@@ -30,6 +30,7 @@ This project was originally based on a YouTube tutorial, but I’ve made a few c
 
 ## Folder Structure
 
+```text
 expense_tracker/
 │
 ├── backend/
@@ -50,6 +51,7 @@ expense_tracker/
 ├── vite.config.js
 ├── package.json
 └── index.html
+```
 
 ---
 
