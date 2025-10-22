@@ -69,14 +69,14 @@ cd backend
 npm install
 ```
 
-####Create a .env file inside backend/:
+Create a .env file inside backend/:
 
 ```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 ```
 
-####Start the backend:
+Start the backend:
 
 ```bash
 npm start
@@ -90,10 +90,10 @@ npm install
 npm run dev
 ```
 
-####Then open http://localhost:5173 in your browser.
+Then open http://localhost:5173 in your browser.
 
 ### Notes
 
-####.env and node_modules are ignored using .gitignore
+.env and node_modules are ignored using .gitignore
 
-####This version includes small improvements compared to the YouTube tutorial (like structure, design, and validations)
+This version includes small improvements compared to the YouTube tutorial (like structure, design, and validations)
